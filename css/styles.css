@@ -10102,6 +10102,11 @@ img::-moz-selection {
 #mainNav .navbar-brand img {
   height: 3rem;
 }
+
+.move-up {
+  margin-top:-3.8rem;
+}
+
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
