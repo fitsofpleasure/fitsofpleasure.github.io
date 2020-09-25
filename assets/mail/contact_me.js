@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", I'm sure you rock, but your message failed to send! Please email us directly at booking@fitsofpleasure.com"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
